@@ -1,6 +1,6 @@
-import QtQuick 2.15
-import QtQuick.Controls 2.15
-import QtCharts 2.8
+import QtQuick 6.8
+import QtQuick.Controls 6.8
+import QtCharts 6.8
 
 ApplicationWindow {
     visible: true
