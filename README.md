@@ -14,9 +14,8 @@
    ```bash
    git clone https://github.com/your_username/sensor-data-visualization.git
    cd sensor-data-visualization
-2  **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt```
+   #Install dependencies:**
+   pip install -r requirements.txt
 
 ## Usage
     python src/main.py
