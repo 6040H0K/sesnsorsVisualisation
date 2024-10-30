@@ -4,13 +4,8 @@
 
 ## Table of Contents
 
-- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Requirements](#requirements)
-- [Contributing](#contributing)
-- [License](#license)
 
 
 ## Installation
@@ -20,6 +15,7 @@
    git clone https://github.com/your_username/sensor-data-visualization.git
    cd sensor-data-visualization
 2  **Install dependencies:**
+   ```bash
    pip install -r requirements.txt
 
 ## Usage
